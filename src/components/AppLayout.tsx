@@ -5,6 +5,7 @@ import { Essence } from './home/Essence';
 import { About } from './home/About';
 import { Ministries } from './home/Ministries';
 import { Leadership } from './home/Leadership';
+import { Facilitators } from './home/Facilitators';
 import { Sermons } from './home/Sermons';
 import { Events } from './home/Events';
 import { Testimonies } from './home/Testimonies';
@@ -27,6 +28,7 @@ const AppLayout: React.FC = () => {
         <Ministries />
       </div>
       <Leadership />
+      <Facilitators />
       <Sermons />
       <Events />
       <Testimonies />
