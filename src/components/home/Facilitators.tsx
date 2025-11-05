@@ -1,6 +1,8 @@
 import React from 'react';
 
 const facilitators = [
+  { name: 'Monica Charles', image: '/MonicaCharles.jpg' },
+  { name: 'Darlington Eyamu', image: '/DarlingtonEyamu.jpg' },
   { name: 'Maryamu Emmanual', image: '/facilitators/maryamuemmanuel.jpg' },
   { name: 'Mercy Paul Waziri', image: '/facilitators/mercypaulwaziri.jpg' },
   { name: 'Blessing Edienme', image: '/facilitators/Blessingedienme.jpg' },
@@ -9,7 +11,7 @@ const facilitators = [
   { name: 'Sylvanus Ahunzo', image: '/facilitators/Sylvanusahunzo.jpg' },
   { name: 'Ladi Hyeni', image: '/facilitators/LadiHyelni.jpg' },
   { name: 'Adeola Adebakers Ashiru', image: '/facilitators/adeolaadebakersashiru.jpg' },
-  { name: 'Gaiua Samuel Yubuin', image: '/facilitators/gaiussamuelyubuin.jpg' }
+  { name: 'Gaius Samuel Yubuin', image: '/facilitators/gaiussamuelyubuin.jpg' }
 ];
 
 export const Facilitators: React.FC = () => {
