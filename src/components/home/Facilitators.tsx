@@ -2,14 +2,14 @@ import React from 'react';
 
 const facilitators = [
   { name: 'Monica Charles', image: '/MonicaCharles.jpg' },
-  { name: 'Darlington Eyamu', image: '/DarlingtonEyamu.jpg' },
+  { name: 'EYAMU DARLINGTONE', image: '/DarlingtonEyamu.jpg' },
   { name: 'Maryamu Emmanual', image: '/facilitators/maryamuemmanuel.jpg' },
   { name: 'Mercy Paul Waziri', image: '/facilitators/mercypaulwaziri.jpg' },
-  { name: 'Blessing Edienme', image: '/facilitators/Blessingedienme.jpg' },
+  { name: 'Blessing Edienmene', image: '/facilitators/Blessingedienme.jpg' },
   { name: 'Ladi Ujah', image: '/facilitators/Ladiujah.jpg' },
   { name: 'Enoch Ijabani', image: '/facilitators/Enochijabani.jpg' },
   { name: 'Sylvanus Ahunzo', image: '/facilitators/Sylvanusahunzo.jpg' },
-  { name: 'Ladi Hyeni', image: '/facilitators/LadiHyelni.jpg' },
+  { name: 'Ladi Hyelni', image: '/facilitators/LadiHyelni.jpg' },
   { name: 'Adeola Adebakers Ashiru', image: '/facilitators/adeolaadebakersashiru.jpg' },
   { name: 'Gaius Samuel Yubuin', image: '/facilitators/gaiussamuelyubuin.jpg' }
 ];
