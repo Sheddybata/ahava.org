@@ -3,7 +3,7 @@ import React from 'react';
 const facilitators = [
   { name: 'Monica Charles', image: '/MonicaCharles.jpg' },
   { name: 'EYAMU DARLINGTONE', image: '/DarlingtonEyamu.jpg' },
-  { name: 'Maryamu Emmanual', image: '/facilitators/maryamuemmanuel.jpg' },
+  { name: 'Maryamu Balami', image: '/facilitators/maryamuemmanuel.jpg' },
   { name: 'Mercy Paul Waziri', image: '/facilitators/mercypaulwaziri.jpg' },
   { name: 'Blessing Edienmene', image: '/facilitators/Blessingedienme.jpg' },
   { name: 'Ladi Ujah', image: '/facilitators/Ladiujah.jpg' },
